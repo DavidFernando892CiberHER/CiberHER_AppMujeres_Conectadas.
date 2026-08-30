@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="CiberHER_AppMujeres_Conectadas/CiberHER_AppMujeres_Conectadas..Droid/CiberHER_AppMujeres_Conectadas..Droid.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="CiberHER_AppMujeres_Conectadas/CiberHER_AppMujeres_Conectadas..iOS/CiberHER_AppMujeres_Conectadas..iOS.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="CiberHER_AppMujeres_Conectadas/CiberHER_AppMujeres_Conectadas..Mac/CiberHER_AppMujeres_Conectadas..Mac.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="CiberHER_AppMujeres_Conectadas/CiberHER_AppMujeres_Conectadas..WinUI/CiberHER_AppMujeres_Conectadas..WinUI.csproj">
+    <Platform Project="x64" />
+  </Project>
+  <Project Path="CiberHER_AppMujeres_Conectadas/CiberHER_AppMujeres_Conectadas/CiberHER_AppMujeres_Conectadas..csproj" />
+</Solution>
